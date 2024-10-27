@@ -39,7 +39,7 @@ Here is a workflow that will allow you to preview how the changes will appear on
 1. As a matter of habit, everytime you open Obsidian, you should also open terminal.
 2. Before editing, run the command `npx quartz sync`.This will synchonize the materials on your local machine with the version on GitHub which is shared by the class.
 3. When complete, run `npx quartz build --serve`.
-4. Open your browser and navigate to [http://localhost:8080] to see a preview of the site that reflects your local changes.
+4. Open your browser and navigate to [http://localhost:8080]([url](http://localhost:8080)) to see a preview of the site that reflects your local changes.
 
 ### Uploading
 Note: Do not wait too long to commit and push your changes. If someone else is working on that article, you won't lose your changes, but you will need to work through the differences between them and that can be a pain. Focus on pushing commits that are complete thoughts, though not necessarily totally completed.
