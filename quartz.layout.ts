@@ -5,11 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.Graph()],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "MFA5010 Course Materials": "https://practices.digital/saic/mfa5010/",
+      "GitHub Repository":
+        "https://github.com/garrett-laroy-johnson/chaosmotic-systems-wiki/tree/v4",
     },
   }),
 }
@@ -29,11 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
