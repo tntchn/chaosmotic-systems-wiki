@@ -23,7 +23,7 @@ Obsidian is where you will add to the Wiki on your own machine. Changes made on 
 You will also need to download and install node.js and npm. Note the steps are different for MacOS or Windows.
 
 #### Windows 
-Windows users should be able to just download and run the installer. Follow instructions here [node.js]([url](https://nodejs.org/en))
+Windows users should be able to just download and run the installer. Follow instructions here [node.js](https://nodejs.org/en))
 
 #### MacOS Users
 
