@@ -20,7 +20,19 @@ Obsidian is where you will add to the Wiki on your own machine. Changes made on 
 3. Edit away! You may want to consult some tutorials on Obsidian if you need help getting started, but it is really very straight forward.
 
 ### Node.js
-You will also need to download and install [node.js]([url](https://nodejs.org/en)). 
+You will also need to download and install node.js and npm. Note the steps are different for MacOS or Windows.
+
+#### Windows 
+Windows users should be able to just download and run the installer. Follow instructions here [node.js]([url](https://nodejs.org/en))
+
+#### MacOS Users
+
+You need to follow these steps as well. 
+
+1. Open the application Terminal. 
+2. Run these commands `brew install node; brew install npm`. 
+
+If you get an error about brew, install [Homebrew]([url](https://brew.sh/)) following the instructions on this link, then try the above steps again: 
 
 ### Final Steps
 
