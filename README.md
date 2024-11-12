@@ -10,7 +10,7 @@ GitHub Desktop is how you will grab changes ("fetch" and "pull", in Git terminol
 
 1. Students should first make a GitHub account and download the GitHub desktop client. You can do both at www.github.com.
 2. Open GitHub Desktop, Go to settings and sign in.
-3. Copy the URL to this page. Go to file > clone repository. Note the location of the cloned repository, you will use it below.
+3. Go to file > clone repository. Use click over to URL. Drop this link when prompted: `https://github.com/garrett-laroy-johnson/chaosmotic-systems-wiki`  Note the location of the cloned repository, you will use it below.
 
 ### Obsidian
 Obsidian is where you will add to the Wiki on your own machine. Changes made on your own machine in Obsidian will not be automatically sync'd to the website (more on that soon).
