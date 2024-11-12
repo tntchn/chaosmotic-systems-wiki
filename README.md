@@ -32,7 +32,7 @@ You need to follow these steps as well.
 1. Open the application Terminal. 
 2. Run these commands `brew install node; brew install npm`. 
 
-If you get an error about brew, install [Homebrew]([url](https://brew.sh/)) following the instructions on this link, then try the above steps again: 
+If you get an error about brew, install [Homebrew](https://brew.sh/) following the instructions on this link, then try the above steps again: 
 
 ### Final Steps
 
