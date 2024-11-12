@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "diagrammatic.media/chaosmotic-systems-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
