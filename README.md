@@ -47,7 +47,7 @@ Here is a workflow that will allow you to preview how the changes will appear on
 ### Before Editing
 1. As a matter of habit, everytime you open Obsidian, you should also open terminal.
 2. Enter `cd chaosmotic-systems-wiki`. 
-3. Run the command `npx quartz sync`.This will synchonize the materials on your local machine with the version on GitHub which is shared by the class.
+3. Run the command `npx quartz sync`.This will synchonize the materials on your local machine with the version on GitHub which is shared by the class. At this point you will need to login to your Github account in the terminal, so have your username and password handy.
 4. When complete, run `npx quartz build --serve`.
 5. Open your browser and navigate to [http://localhost:8080]([url](http://localhost:8080)) to see a preview of the site that reflects your local changes.
 
