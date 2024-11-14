@@ -30,7 +30,7 @@ You will need to install via Terminal.
 
 ### Final Installation Steps
 
-Open your favorite application (if you haven't already): Terminal on Mac OS; Command Prompt or Powershell on Windows.
+Open your favorite application (if you haven't already): Terminal on Mac OS; Command Prompt or Powershell ([run as Administrator](https://electro-smith.com/products/daisy-seed)) on Windows.
 
 #### Authenticate GitHub
 
