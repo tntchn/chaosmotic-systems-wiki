@@ -5,13 +5,16 @@ I. Creative Impulse
 - I. [[Importance]]
 - II. [[Expression]]
 - III. [[Understanding]]
+
 II. Activity
 - IV. [[Perspective]]
 - V. [[Forms of Process]]
 - VI. Civilized Universe
+
 III. Nature and Life
 - VII. Nature Lifeless
 - VIII. Nature Alive 
+
 IV. Epilogue
 - IX. The Aim of Philosophy
 - Index
