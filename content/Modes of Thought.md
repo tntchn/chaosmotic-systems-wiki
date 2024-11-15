@@ -2,19 +2,19 @@ written by Mathematician and Philosopher [[Alfred North Whitehead]], *Modes of T
 
 #### Contents:
 I. Creative Impulse
-	I. [[Importance]]
-	II. [[Expression]]
-	III. [[Understanding]]
+- I. [[Importance]]
+- II. [[Expression]]
+- III. [[Understanding]]
 II. Activity
-	IV. [[Perspective]]
-	V. [[Forms of Process]]
-	VI. Civilized Universe
+- IV. [[Perspective]]
+- V. [[Forms of Process]]
+- VI. Civilized Universe
 III. Nature and Life
-	VII. Nature Lifeless
-	VIII. Nature Alive 
+- VII. Nature Lifeless
+- VIII. Nature Alive 
 IV. Epilogue
-	IX. The Aim of Philosophy
-	Index
+- IX. The Aim of Philosophy
+- Index
 
 #### Notes:
 There are some standout points which string through each lecture, included below:
