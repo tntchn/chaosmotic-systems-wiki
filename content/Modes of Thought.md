@@ -1,4 +1,4 @@
-written by Mathematician and Philosopher Alfred North Whitehead, *Modes of Thought* compiles his lectures on topics such as [[Importance]], [[Expression]], [[Understanding]], and [[Perspective]]. Published in 1938, after his landmark text "Process and Reality" in 1929, *Modes of Thought* is a vast discussion on the basis of thought and some of the reasoning behind our constructions of reality and fact. 
+written by Mathematician and Philosopher [[Alfred North Whitehead]], *Modes of Thought* compiles his lectures on topics such as [[Importance]], [[Expression]], [[Understanding]], and [[Perspective]]. Published in 1938, after his landmark text "Process and Reality" in 1929, *Modes of Thought* is a vast discussion on the basis of thought and some of the reasoning behind our constructions of reality and fact. 
 
 #### Contents:
 I. Creative Impulse
