@@ -9,5 +9,3 @@ Chaosmotic Systems: Culture, Cosmology, Computation is an MFA-level seminar taug
 This repository serves as an entry point for the course's collaborative wiki project. Here is the [[Assignment]].
 
 For information on contributing to the WIKI, please follow instructions on the [[Technical instructions]]
-
-This project is supported by a grant from [SAIC's Center for Teaching and Learning](https://www.saic.edu/center-teaching-learning). 
