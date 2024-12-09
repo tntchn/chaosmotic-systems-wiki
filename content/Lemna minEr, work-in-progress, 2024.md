@@ -11,10 +11,10 @@ In addition to its biological focus, _Lemna minEr_ aims to raise awareness about
 
 ---
 
-(*Lemna minEr* was initially conceived as a group project during the Spring of 2024 and has since been carried forward by Daniel to further explore and expand its potential for both artistic and activist impact.)
+(*Lemna minEr* was initially conceived as a group project during the Spring of 2024 and has since been carried forward by Daniel.)
 
 Drawing inspiration from the November 20th, 1988 episode of _The Equinox_, which explores the chaotic rotation of Saturn’s moon Hyperion, I was fascinated by how Hyperion can appear both orderly and chaotic. This duality—where Saturn’s gravitational pull maintains Hyperion’s orbit despite its irregular rotation—motivated me to take the _Lemna minEr_ project in a new direction. 
 
 I’ve begun culturing _Lemna minor_ in iron oxide, aiming to transform the plant into a permanent magnet. My goal is to create an installation where this magnetized plant interacts with an electronic circuit featuring a motion sensor that activates an electromagnet. Much like Saturn’s influence on Hyperion, the electromagnet will pull the plant in various ways, altering its movement. The chaos arises from the third oscillation of human interaction: the electromagnet is only activated when the motion sensor detects a presence, introducing an unpredictable, chaotic element to the plant's behavior, alluding to the erratic orbit of Hyperion.
 
-(write 205)
+(write 218)
