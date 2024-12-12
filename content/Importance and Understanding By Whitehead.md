@@ -1,5 +1,4 @@
 [[Proposition and Relation by Glissant, Eduardo. Poetics of Relation]] 
-The theory speaks to the relation that Edurado talks about, while Whitehead more focus on the 
 
 "==*If a tree falls in a forest and no one is around to hear it, does it make a sound?"*== 
 
