@@ -26,7 +26,7 @@ We shall guard against suggesting, parabolically, beings would be solid and Bein
 
 **Interconnectedness**: Relation moves beyond static notions of identity to acknowledge the dynamic interplay between peoples, cultures, and histories. Instead of individuality rooted in isolation, Relation seeks a **constant exchange that transforms all participants.**
 
--**Multiplicity and Chaos**: Rather than reducing diversity into universal truths, **Relation embraces multiplicity and chaos.** Glissant values the complexities and contradictions inherent in cultural exchanges. This ==chaos is not disorder but a== ==productive force generating new meanings and connections.==
+-**Multiplicity and [[Chaosmos]] :Rather than reducing diversity into universal truths, **Relation embraces multiplicity and chaos.** Glissant values the complexities and contradictions inherent in cultural exchanges. This ==chaos is not disorder but a== ==productive force generating new meanings and connections.==
 
 -**Openness**: Relation rejects closed systems of thought, encouraging an openness to difference and opacity (the right of others to **remain incomprehensible**). This openness does not demand assimilation but creates space for coexistence.
 
