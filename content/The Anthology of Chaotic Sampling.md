@@ -61,7 +61,7 @@ This inability to replicate human emotion and experience, I think, is why [[cybe
 
   
 
-When I work with sound—borrowing from [[Dangdut]] tracks, for instance—I’m drawing from personal memories and experiences. What I consider good or bad art is deeply influenced by familiarity and context. Alfred North Whitehead says, "*It is more important that a proposition be interesting than that it be true*." To me, these fragments of memory and influence form a constantly shifting system. I feel a loose sense of ownership over this accumulation, but it’s fluid, alive, and ever-changing.
+When I work with sound—borrowing from [Dangdut](https://en.wikipedia.org/wiki/Dangdut)tracks, for instance—I’m drawing from personal memories and experiences. What I consider good or bad art is deeply influenced by familiarity and context. Alfred North Whitehead says, "*It is more important that a proposition be interesting than that it be true*." To me, these fragments of memory and influence form a constantly shifting system. I feel a loose sense of ownership over this accumulation, but it’s fluid, alive, and ever-changing.
 
 Memories fade, replaced by new experiences, and the threads of influence extend into the lives of others. This process—this flow of creation and reinterpretation—drives my art. It’s about making sense of life in abstract, non-linear ways, finding meaning through the ephemeral and the evolving.
 
