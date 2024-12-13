@@ -9,11 +9,9 @@ But here’s where I hit a moral snag. The act of borrowing—navigating copyrig
 
 
 1  Sakrison, Angela, [[Rowboat Phenomenology]], pg. 58 – 
-
 *I borrow this concept of staging from [[Isabelle Stengers]]. As a vessel for thought, the rowboat is an experimental apparatus that allows me to enter the landscape in a different way and be in the presence of different entities. Stengers alludes to the power of co-presence, in that it allows for new combinations of thought to emerge. Thought in itself is a form of resistance simply because it has lingering effects. Not that these influences can or should be traced out, but what Stengers motions toward in her essay [[‘The Cosmopolitical Proposal’]] is an acknowledgement of the new ‘could’ that evolves out of an intentional gathering.*
 
 2  From personal thoughts, referring to 1  –
-
 With co presence, the thought of understanding and importance coincides with experience. In reality I am putting myself in an alien condition, in mediums, I am attracted to things I have no experience with. I would like you to re-think about your senses of belonging and how shifting towards a new perspective leaves you– not only enlightened with knowledge, but, also a sense of disconnection and losing in a way, a *sense of self*; Especially when you have difficulty pulling out of past references, and more especially once you are taken out of a certain environment. I think social media is taking the hum out of the room, and from the memory-- as [[Garrett Laroy Johnson]] has mentioned in a particular discussion. Asocial, apathetic, apathy, – There is sometimes in me, personally, a desire to belong back into certain situations, but, beauty lies in the knowing that you can not *reverse*, and that [[understanding]] only expands, though parts of old continuity might dissolve.
 
   
@@ -26,23 +24,18 @@ This leads me to AI and the concerns surrounding it. The issue isn’t just abou
   
 
 3 Whitehead, Alfred N, Modes of Thought, pg. 54 – 
-
 *Process is the immanence of the infinite in the finite; whereby all bounds are burst, and all inconsistencies dissolved.*
 
 4 Whitehead, Alfred N, Modes of Thought, pg. 56 – 
-
 *All that we can do is to make an abstraction, to presuppose that it is relevant, and to push ahead within that presupposition.*
 
 5 Whitehead, Alfred N, Modes of Thought, pg. 57 – 
-
 *We cannot prescribe the pattern of progress*
 
 6  Whitehead, Alfred N, Modes of Thought, pg. 87 – 
-
 *There are always forms of order, partially dominant, and partially frustrated.*
 
 7 From discussions, referring to 6 : 
-
 None (forms of order) is ever complete, in both, transition is necessary. Transition is a frustration of the prevalent dominance. In a way, transition is frustration, transition is tension; Transition is flow, flux, and change.
 
   
@@ -55,7 +48,6 @@ This inability to replicate human emotion and experience, I think, is why [[cybe
   
 
 8  Stengers, Isabelle, Gaia, the Urgency to Think (and Feel), pg. 2 – 
-
 *What threatens us has no face but a complex interrelated set of models and data.* 
 
   
@@ -65,7 +57,6 @@ This inability to replicate human emotion and experience, I think, is why [[cybe
 
 
 9  From personal thoughts, – 
-
 ==To make something important is to make it into poetry.==
 
   
